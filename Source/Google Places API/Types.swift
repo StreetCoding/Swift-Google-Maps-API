@@ -15,5 +15,6 @@ public extension GooglePlaces {
         case establishment = "establishment"
         case regions = "(regions)"
         case cities = "(cities)"
+        case gasStation = "gas_station"
     }
 }
